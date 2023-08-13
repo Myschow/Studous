@@ -64,7 +64,7 @@ if(isset($_POST['submit'])){
       </div>
 
       <form action="" method="post">
-         <h3>FeedBacks</h3>
+
          <input type="text" placeholder="enter your name" required maxlength="100" name="name" class="box">
          <input type="email" placeholder="enter your email" required maxlength="100" name="email" class="box">
          <input type="number" min="0" max="9999999999" placeholder="enter your number" required maxlength="10" name="number" class="box">
@@ -86,14 +86,13 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <a href="mailto:ramisa.fariha.prova@g.bracu.ac.bd">ramisa.fariha.prova@g.bracu.ac.bd</a>
-         <a href="mailto:studious@gmail.com">studious@gmail.com</a>
+
       </div>
 
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>office address</h3>
-         <a href="#">Mohakhali, Brac University</a>
+
       </div>
 
 

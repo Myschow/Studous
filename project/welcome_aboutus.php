@@ -41,7 +41,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="content">
          <h3>why choose us?</h3>
-         <p>We have made a easy platform for students and Teachers. And added features that can make students learning experience more feasible.</p>
+
          
       </div>
 
@@ -62,7 +62,7 @@ if(isset($_COOKIE['user_id'])){
    <div class="box-container">
 
       <div class="box">
-         <p>It is a Good Forum.</p>
+<<<<<<
          <div class="user">
             <img src="images/pic-2.jpg" alt="">
             <div>
@@ -79,7 +79,7 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>It could be more dynamic.</p>
+
          <div class="user">
             <img src="images/pic-3.jpg" alt="">
             <div>
@@ -96,7 +96,7 @@ if(isset($_COOKIE['user_id'])){
       </div>
 
       <div class="box">
-         <p>Should add more facilities.</p>
+
          <div class="user">
             <img src="images/pic-4.jpg" alt="">
             <div>
@@ -112,7 +112,6 @@ if(isset($_COOKIE['user_id'])){
          </div>
       </div>
 
-      
 
    </div>
 
